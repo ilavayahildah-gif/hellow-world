@@ -1,2 +1,1 @@
-# hellow-world
-This repository is for practicing the GitHub flow
+my First Trial
